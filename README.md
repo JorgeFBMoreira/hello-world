@@ -10,9 +10,7 @@ Já usei HTML5, CSS3 e JAVASCRIPT a nível profissional, e também usei PHP e MY
 
 
 Tenho **experiência*** nas seguintes linguagens de programação:
-> HTML5
-> CSS3
-> JAVASCRIPT
+> HTML5, CSS3; JAVASCRIPT
 > PHP
 > MYSQL
 
