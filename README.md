@@ -17,12 +17,12 @@ Tenho **experiência* nas seguintes linguagens de programação:
 * PHP
 * MYSQL
 
-<br> Também já **estudei* as seguintes linguagens:
+<br> Também já **estudei*** as seguintes linguagens:
 * C
 * C#
 * C++
 
-<br> Tenho **interesse* nas seguintes linguagens/frameworks:
+<br> Tenho **interesse*** nas seguintes linguagens/frameworks:
 * Node.js
 * Angular JS
 * ReactJS
@@ -35,6 +35,7 @@ Tenho **experiência* nas seguintes linguagens de programação:
 ### Vamos se conectar?
 - LinkedIn: [jorge-moreira-65123521a](https://www.linkedin.com/in/jorge-moreira-65123521a/)
 <br>
-**experiência*     - Já utilizei em projetos pessoais/escolar, ou no meu estágio currícular. <br>
-**já estudei*      - Linguagens que já usei em projetos pessoais/escolar, mas que não tenho grande domínio, ou que nunca usei profissionalmente. <br>
-**tenho interesse* - Linguagen ou frameworks que tenho vontade de aprender/estudar e de tentar criar projetos, sejam eles pessoais ou a nível profissional. <br>
+
+*experiência**     - Já utilizei em projetos pessoais/escolar, ou no meu estágio currícular. <br>
+*já estudei**      - Linguagens que já usei em projetos pessoais/escolar, mas que não tenho grande domínio, ou que nunca usei profissionalmente. <br>
+*tenho interesse** - Linguagen ou frameworks que tenho vontade de aprender/estudar e de tentar criar projetos, sejam eles pessoais ou a nível profissional. <br>
