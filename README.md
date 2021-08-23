@@ -1,5 +1,5 @@
 # hello-world
-Meu primeiro repositório (My First Repository)
+## Meu primeiro repositório (My First Repository)
 
 Olá a todos! Este é o meu primeiro repositório. Sou programador web e desenvolvedor de software, e estou a aprender a utilizar o GitHub.
 
@@ -9,28 +9,32 @@ Já usei HTML5, CSS3 e JAVASCRIPT a nível profissional, e também usei PHP e MY
 
 
 
+#### Linguagens de Programação
+
 Tenho **experiência*** nas seguintes linguagens de programação:
-> HTML5, CSS3; JAVASCRIPT
-> PHP
-> MYSQL
+* HTML5
+* CSS3
+* JAVASCRIPT
+* PHP
+* MYSQL
 
 Também já **estudei*** as seguintes linguagens:
-> C
-> C#
-> C++
+* C
+* C#
+* C++
 
 Tenho **interesse*** nas seguintes linguagens/frameworks:
-> Node.js
-> Angular JS
-> ReactJS
-> React Native
-> Flutter
-> Firebase
+* Node.js
+* Angular JS
+* ReactJS
+* React Native
+* Flutter
+* Firebase
 
 
 
 **Vamos se conectar?**
-> LinkedIn: [jorge-moreira-65123521a](https://www.linkedin.com/in/jorge-moreira-65123521a/)
+- LinkedIn: [jorge-moreira-65123521a](https://www.linkedin.com/in/jorge-moreira-65123521a/)
 
 
 experiência*     - Já utilizei em projetos pessoais/escolar, ou no meu estágio currícular.
