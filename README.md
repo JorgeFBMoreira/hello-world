@@ -32,7 +32,7 @@ Tenho **experiência*** nas seguintes linguagens de programação:
 
 <br><br>
 
-###**Vamos se conectar?**
+### **Vamos se conectar?**
 - LinkedIn: [jorge-moreira-65123521a](https://www.linkedin.com/in/jorge-moreira-65123521a/)
 <br>
 experiência*     - Já utilizei em projetos pessoais/escolar, ou no meu estágio currícular.
