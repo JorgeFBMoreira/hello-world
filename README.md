@@ -17,11 +17,13 @@ Tenho **experiência*** nas seguintes linguagens de programação:
 * JAVASCRIPT
 * PHP
 * MYSQL
+* 
 
 Também já **estudei*** as seguintes linguagens:
 * C
 * C#
 * C++
+
 
 Tenho **interesse*** nas seguintes linguagens/frameworks:
 * Node.js
@@ -31,7 +33,7 @@ Tenho **interesse*** nas seguintes linguagens/frameworks:
 * Flutter
 * Firebase
 
-
+<br>
 
 **Vamos se conectar?**
 - LinkedIn: [jorge-moreira-65123521a](https://www.linkedin.com/in/jorge-moreira-65123521a/)
