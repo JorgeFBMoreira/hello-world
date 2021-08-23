@@ -7,11 +7,9 @@ Já trabalhei em projetos pessoais e escolar com o uso de várias linguagens de 
 
 Já usei HTML5, CSS3 e JAVASCRIPT a nível profissional, e também usei PHP e MYSQL em projetos pessoais, mas com intenção usá-las profissionalmente. Acabei recentemente o meu curso de TGPSI (Técnico de Gestão e Programação de Sistemas Informáticos), com equivalência a **nível 4** no **Quadro Nacional de Qualificações** (QNQ) e pretendo, com o uso do github, alavancar a minha carreira, com a realiação de novos projetos, contribuir em projetos de outros e de criar conexões.
 
-<br><br><br>
+<br><br>
 
 #### Linguagens de Programação
-
-<br>
 Tenho **experiência*** nas seguintes linguagens de programação:
 * HTML5
 * CSS3
@@ -19,14 +17,12 @@ Tenho **experiência*** nas seguintes linguagens de programação:
 * PHP
 * MYSQL
 
-<br>
-Também já **estudei*** as seguintes linguagens:
+<br> Também já **estudei*** as seguintes linguagens:
 * C
 * C#
 * C++
 
-<br>
-Tenho **interesse*** nas seguintes linguagens/frameworks:
+<br> Tenho **interesse*** nas seguintes linguagens/frameworks:
 * Node.js
 * Angular JS
 * ReactJS
