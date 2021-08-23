@@ -9,7 +9,7 @@ Já usei HTML5, CSS3 e JAVASCRIPT a nível profissional, e também usei PHP e MY
 
 <br><br>
 
-#### Linguagens de Programação
+### Linguagens de Programação
 Tenho **experiência*** nas seguintes linguagens de programação:
 * HTML5
 * CSS3
@@ -30,9 +30,9 @@ Tenho **experiência*** nas seguintes linguagens de programação:
 * Flutter
 * Firebase
 
-<br><br><br><br>
+<br><br>
 
-**Vamos se conectar?**
+###**Vamos se conectar?**
 - LinkedIn: [jorge-moreira-65123521a](https://www.linkedin.com/in/jorge-moreira-65123521a/)
 <br>
 experiência*     - Já utilizei em projetos pessoais/escolar, ou no meu estágio currícular.
